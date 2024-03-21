@@ -1,3 +1,4 @@
+https://www.loom.com/share/530cb615a2ee40429484b372be5be36b
 # Numpy Array Operations
 #### This Python script demonstrates various operations using Numpy arrays. Below is an overview of each task:
 
