@@ -11,7 +11,7 @@
 			# Task 2: 
   Creating a 4x3 Array
   Creates a 4x3 array with 4-byte integer elements.
-			Task 3: 
+			# Task 3: 
   Computing Eigenvalues and Eigenvectors
   Computes the eigenvalues and right eigenvectors of a given square array.
 			# Task 4: 
